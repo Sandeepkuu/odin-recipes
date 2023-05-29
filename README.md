@@ -3,7 +3,7 @@
 
 ### About
 This is the just a simple recipe page I am making for my odin project.
-I have used all the things they taught me during the precious lessons
+I have used all the things they taught me during the previous lessons
 
 From using html-boilerplate, images,links,etc in the previous chapters
 
