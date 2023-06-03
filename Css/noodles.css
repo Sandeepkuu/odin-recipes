@@ -1,0 +1,14 @@
+p{color: blue;
+    background-color: lightblue;}
+    
+    h1{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    
+    ol{
+        color: aliceblue;
+    }
+    
+    *{
+        margin: 0;
+    }
